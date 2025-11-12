@@ -36,9 +36,9 @@ A final run was performed using selected parameters based on these experiments.
 
 Chosen Parameters: `{'temperature': 0.9, 'top_p': 0.9, 'max_new_tokens': 200}`
 
-Generated Book Review (≈136 words):
+### Generated Book Review (≈136 words):
 
-    "A story of two savage aliens who try to avenge each other and then find each other. They start the journey toward a new world, and ultimately the end. This is a classic sci-fi thriller. A series of eerie, flashy, atmospheric scenes are the highlight of the story, with the characters being hailed as the stars of this masterpiece. The pacing is surprisingly fast and the characters portrayed as heroes are also pretty good. The plot is well written and the characters are well developed. The world is a place of terror. The aliens don't look like any aliens. The aliens are just like all humans, and the humans need to live. This book gives us a very unique story with a unique and complex way of life. A must read for sci-fi fans."
+"A story of two savage aliens who try to avenge each other and then find each other. They start the journey toward a new world, and ultimately the end. This is a classic sci-fi thriller. A series of eerie, flashy, atmospheric scenes are the highlight of the story, with the characters being hailed as the stars of this masterpiece. The pacing is surprisingly fast and the characters portrayed as heroes are also pretty good. The plot is well written and the characters are well developed. The world is a place of terror. The aliens don't look like any aliens. The aliens are just like all humans, and the humans need to live. This book gives us a very unique story with a unique and complex way of life. A must read for sci-fi fans."
 
 Analysis:
 - Word count: 134
