@@ -1,7 +1,9 @@
 # Generative AI with Pre-trained LLMs: Book Review Prompt
 
 Author: El Brewster
+
 Model Used: `google/flan-t5-base` (T5-based sequence-to-sequence model)
+
 Task: Generate a book review for a sci-fi novel where two spaceships go from enemies to lovers, targeting approximately 136 words in length.
 
 ## Overview
